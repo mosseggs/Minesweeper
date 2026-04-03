@@ -4,6 +4,7 @@ Minesweeper Redone by Gabriel Lau
 
 This program is a recreation of the The Windows 98 version of Minesweeper.
 The only major differences are 
+
 a) the lack of a top task bar, replaced by 3 buttons that allow the user to select a difficulty:
 - Beginner(Represented by a green B) (a 9x9 grid with 10 mines)
 - Intermediate(Represented by a Yellow I) (a 16x16 grid with 40 mines)
